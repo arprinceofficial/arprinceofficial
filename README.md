@@ -4,7 +4,7 @@
 
 I am **MD. ASHIQUR RAHMAN**, a self-taught Software Developer from Bangladesh. I have been working as a Professional Full Stack Developer since 2021, Though I started my Self-Taught Programming Journey In 2019. I specialize in using JavaScript, PHP, Vue.js, Nuxt.js, Next.js, Express.js, Node.js, Laravel and other headless technologies to create intuitive and scalable web applications. In the last few years, I have helped dozens of my client create websites for their business that are mobile and SEO-friendly.
 
-Want to know more about me? [**Check out my Portfolio.**](https://github.com/arprinceofficial/)
+Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 
 - 📚 Currently I am focusing on Node.js
 
