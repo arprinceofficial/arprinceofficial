@@ -1,0 +1,25 @@
+name: Generate GitHub Contribution Artwork
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Artwork
+        uses: jasineri/gitartwork@v1
+        with:
+          user_name: arprinceofficial
+          text: ASHIQ
+
+      - name: Commit and Push Artwork
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Add gitartwork.svg"
+          file_pattern: gitartwork.svg
