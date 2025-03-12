@@ -6,7 +6,7 @@ I am **MD. ASHIQUR RAHMAN**, a self-taught Software Developer from Bangladesh. I
 
 Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 
-- 📚 Currently I am focusing on Node.js
+- 📚 Currently I am focusing on Node.js, Nuxt.js, Next.js
 
 - 🎯 Goal of 2025 is to learn Node.js, Vue.js, React.js & Industrial Good Practices
 
