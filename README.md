@@ -8,7 +8,7 @@ Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 
 - 📚 Currently I am focusing on Node.js, Nuxt.js, Next.js
 
-- 🎯 Goal of 2025 is to learn Node.js, Vue.js, React.js & Industrial Good Practices
+<!-- - 🎯 Goal of 2025 is to learn Node.js, Vue.js, React.js & Industrial Good Practices -->
 
 ## Find me on Social Platforms
 
