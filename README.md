@@ -24,17 +24,17 @@ Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 
 ### Programming Languages
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 <!-- ![JAVA](https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Web Technologies, Frameworks & CMS
 
-![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 
 <!-- ![Livewire](https://img.shields.io/badge/Laravel%20Livewire%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel-livwire&logoColor=white) -->
 ![Vue.JS](https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
