@@ -38,7 +38,9 @@ Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 
 <!-- ![Livewire](https://img.shields.io/badge/Laravel%20Livewire%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel-livwire&logoColor=white) -->
 ![Vue.JS](https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js%20-%2300DC82.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React%20JS-%2335495e.svg?&style=for-the-badge&logo=reactjs&logoColor=%234FC08D)
+![Next.js](https://img.shields.io/badge/Next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![jQuery](https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
