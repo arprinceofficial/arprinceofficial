@@ -45,8 +45,8 @@ Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 ![jQuery](https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-<!-- ![WordPress](https://img.shields.io/badge/WordPress%20-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white) -->
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- ![WordPress](https://img.shields.io/badge/WordPress%20-%2321759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white) -->
 
 ### Databases
 
