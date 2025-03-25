@@ -28,7 +28,7 @@ Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 <!-- ![JAVA](https://img.shields.io/badge/JAVA-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) -->
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 
 ### Web Technologies, Frameworks & CMS
 
