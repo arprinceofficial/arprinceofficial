@@ -30,7 +30,7 @@ Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 <!-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) -->
 <!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 
-### Web Technologies, Frameworks & CMS
+### Web Technologies, Frameworks
 
 ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
