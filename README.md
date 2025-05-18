@@ -12,7 +12,10 @@ Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 
 ## Find me on Social Platforms
 
-[![Linkedin](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/linkedin.png 'Linkedin')](https://www.linkedin.com/in/arprinceofficial/ 'Linkedin') [![Facebook](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/facebook.png 'Facebook')](http://facebook.com/arprinceofficial 'Facebook') [![Discord](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/discord.png 'Discord')](https://discordapp.com/users/md.ashiqurrahman_12225 'Discord') [![Instagram](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/instagram.png 'Instagram')](https://www.instagram.com/arprinceofficial/ 'Instagram')
+[![Linkedin](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/linkedin.png 'Linkedin')](https://www.linkedin.com/in/arprinceofficial/ 'Linkedin') 
+[![Facebook](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/facebook.png 'Facebook')](http://facebook.com/arprinceofficial 'Facebook') 
+[![Discord](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/discord.png 'Discord')](https://discordapp.com/users/md.ashiqurrahman_12225 'Discord') 
+<!-- [![Instagram](https://raw.githubusercontent.com/kzamanbd/kzamanbd/master/images/instagram.png 'Instagram')](https://www.instagram.com/arprinceofficial/ 'Instagram') -->
 
 [![Followers](https://img.shields.io/github/followers/arprinceofficial?username=arprinceofficial&label=Followers)](https://github.com/arprinceofficial?tab=followers)
 ![Profile](https://komarev.com/ghpvc/?username=arprinceofficial&label=Profile%20views&color=green&style=flat)
