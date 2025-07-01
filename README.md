@@ -33,6 +33,17 @@ Want to know more about me? [**Check out my Portfolio.**](https://arprince.me)
 <!-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) -->
 <!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arprinceofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arprinceofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 📊 GitHub Stats
+
+![Motakabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=arprinceofficial&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arprinceofficial&layout=compact&theme=radical)
+
 ### Web Technologies, Frameworks
 
 ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
